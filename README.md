@@ -2,6 +2,8 @@
 
 下载指定文献的所有引文数据，包括标题、年份、摘要、被引用次数 (citation_count)等。
 
+创建.env文件，填写CorpusID。
+
 ## 环境配置
 ```bash
 uv sync 
